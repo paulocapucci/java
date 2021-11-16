@@ -8,6 +8,7 @@ public class JavaZazuApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaZazuApplication.class, args);
+		sdfsdfsdf
 	}
 
 }
